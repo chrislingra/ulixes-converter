@@ -1,0 +1,13 @@
+ulixes-converter -- Freeware License
+
+Copyright (c) 2026 lingra. All rights reserved.
+
+This software is freeware: you may install and use it free of charge.
+It is not open source. You may not modify, decompile, resell or
+redistribute it without written permission of lingra.
+
+Included third-party components keep their own licenses:
+PostgreSQL (PostgreSQL License), pgvector (PostgreSQL License),
+Python and its packages (their respective licenses), Microsoft WebView2.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
